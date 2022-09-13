@@ -1,0 +1,9 @@
+
+;<Program title>
+
+LDA 2500
+MOV B,A
+LDA 2502
+ADD B
+STA 2504
+HLT
